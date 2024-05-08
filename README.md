@@ -5,12 +5,12 @@
 
 This is a simple console-based Snake game implemented in C++. It provides a basic yet enjoyable gaming experience where players control a snake, guiding it to eat fruits while avoiding collision with walls and its own tail.
 
-Features
+## Features
 
 Simple Controls: Use the keyboard arrow keys to control the snake's direction (up, down, left, right).
 Game Over Handling: The game ends when the snake collides with a wall or itself. You can choose to play again or exit.
 
-Requirements
+## Requirements
 
 C++ compiler (e.g., g++), Standard C++ libraries, Limitations
 
